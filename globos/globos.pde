@@ -1,5 +1,6 @@
 class Globo
 {
+  // Atributos
   float x, y,vx,vy;
   Globo (float _x, float _y)
   {
